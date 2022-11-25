@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TogmanOv
-- 👀 I’m interested in FrontEnd dev
-- 🌱 I’m currently learning css+js and java as well
+- 👀 I’m interested in FrontEnd dev in React
+- 🌱 I’m currently learning golang and java as well MERN Stack Builder
 - 💞️ I’m looking to collaborate on website
 
 <!---
