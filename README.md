@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @TogmanOv
-- 👀 I’m interested in FrontEnd dev in React
-- 🌱 I’m currently learning golang and java as well MERN Stack Builder
-- 💞️ I’m looking to collaborate on website
+- 👋 Hi, I’m Mukhammed Togmanov Future Facebook Developer))))
+- 👀 I’m interested in IT with all my heart because our world consists elements of it things.
+- 🌱 My stack listings below:
+      - HTML/ CSS ( SAAS), JS/ jQuery
+      - ReactJS 18
+      - TypeScript
+      - Redux Toolkit 
+      - React Router v6 
+      - Axios + Fetch
+      - Node JS, Express JS
+      - Mongo DB, Postgre SQL
+      - Java OOP, C++
+      Learning:
+      - MERN Stack and GOLANG
+- 💞️ I get inspiration and get rest when i am coDinggggggg
 
-<!---
-TogmanOv/TogmanOv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
